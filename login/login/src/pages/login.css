@@ -1,0 +1,88 @@
+*{
+  margin: 0;
+}
+.App {
+  text-align: center;
+}
+
+.btn-exit{
+  display: none;
+}
+
+.App img{
+  width: 124px;
+}
+
+.btn-register{
+  display: none;
+}
+
+.margin{
+  margin-top: 70px;
+}
+
+.welcome{
+  margin: 30px;
+  font-size: 15px;
+}
+
+.welcome span{
+  color: white;
+}
+
+h1{
+  font-size: 25px;
+  margin: 10px;
+  font-weight: 500;
+}
+input{
+  height: 50px;
+  width: 350px;
+  margin: 10px;
+  border: 1px solid #01FFFF;
+  border-radius: 5px;
+  background: #2E3948;
+  outline: 0;
+  font-size: 14px;
+}
+
+input[type="text"] {
+  padding-left: 10px;
+}
+
+input[type="password"] {
+  padding-left: 10px;
+}
+
+input[type="email"] {
+  padding-left: 10px;
+}
+
+.label-info{
+  position: relative;
+  right: 150px;
+}
+
+.inputEnter{
+  position: relative;
+  top: -50px;
+}
+
+.inputEnterMobile-btn{
+  display: none;
+}
+
+.forgotPassword{
+  margin: 10px;
+}
+
+.forgotPassword a{
+  color: #01FFFF;
+}
+
+.registerNow a{
+  color: #01FFFF;
+  text-shadow: -1px 0 black, 0 1px black,
+      1px 0 black, 0 -1px black
+}
+

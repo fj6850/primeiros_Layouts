@@ -1,0 +1,44 @@
+.inputEnter button{
+    height: 45px;
+    width: 360px;
+    background: #01FFFF;
+    color: black;
+    border: none;
+    border-radius: 5px;
+    font-weight: 700;
+    font-size: 14px;
+    cursor: pointer;
+}
+
+
+.inputEnter-next button{
+  height: 45px;
+    width: 160px;
+    background: #01FFFF;
+    color: black;
+    border: none;
+    border-radius: 5px;
+    font-weight: 700;
+    font-size: 14px;
+    cursor: pointer;
+}
+
+.margin-30{
+  margin-top: 30px;
+}
+
+.margin-15{
+  margin-top: 5px;
+}
+
+.margin-15 a{
+  color: #01FFFF;
+}
+
+.margin-rigth-title h1{
+  position: relative;
+  left:-125px;
+  margin-top: -5px;
+  color: #01FFFF;
+  font-size: 14px;
+}
