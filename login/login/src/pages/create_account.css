@@ -26,3 +26,23 @@
 .text-margin-name-mom{
     margin-left: -265px;
 }
+
+
+.number-contador-1-create-account span{
+    color: #01FFFF; 
+}
+
+.number-contador-2-create-account span{
+    color: white;
+    opacity: 0.2;
+}
+
+.number-contador-3-create-account span{
+    color: white;
+    opacity: 0.2;
+}
+
+.number-contador-4-create-account span{
+    color: white;
+    opacity: 0.2;
+}

@@ -1,0 +1,104 @@
+.number-contador-1-address{
+    opacity: 0.2;
+    color: #01FFFF;
+}
+
+.number-contador-2-address span{
+    opacity: 0.2;
+    color: #01FFFF;
+}
+
+.number-contador-3-address span{
+    color: #01FFFF;
+}
+
+.number-contador-4-address span{
+    color: white;
+    opacity: 0.2;
+}
+
+
+.text-margin-zip-code{
+    margin-left: -335px;
+}
+
+.text-margin-city{
+    margin-left: -315px;
+}
+
+.div-street{
+    display: inline-block;
+}
+
+.div-number{
+    display: inline-block;
+}
+
+.div-state{
+    display: inline-block;
+}
+
+.div-country{
+    display: inline-block;
+}
+
+.div-number input{
+    width: 50px;
+}
+
+.div-street input{
+    width: 260px;
+}
+
+.select-state{
+    height: 50px;
+    width: 137px;
+    margin: 10px;
+    border: 1px solid #01FFFF;
+    border-radius: 5px;
+    background: #2E3948;
+    outline: 0;
+    font-size: 14px;
+}
+
+.select-country{
+    height: 50px;
+    width: 205px;
+    margin: 10px;
+    border: 1px solid #01FFFF;
+    border-radius: 5px;
+    background: #2E3948;
+    outline: 0;
+    font-size: 14px;
+}
+
+.text-label-street{
+    margin-right: 245px;
+}
+
+.text-label-number{
+    margin-right: 40px;
+}
+
+select {
+    padding-left: 10px;
+}
+.text-label-complement{
+    margin-right: 260px;
+}
+
+.text-labbel-state{
+    margin-right: 90px;
+}
+
+.text-label-country{
+    margin-right: 175px;
+}
+
+.titlle-address{
+    margin-right: 40px;
+}
+
+
+
+

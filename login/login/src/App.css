@@ -10,10 +10,9 @@
     cursor: pointer;
 }
 
-
 .inputEnter-next button{
-  height: 45px;
-    width: 160px;
+  height: 39px;
+    width: 180px;
     background: #01FFFF;
     color: black;
     border: none;
@@ -21,6 +20,37 @@
     font-weight: 700;
     font-size: 14px;
     cursor: pointer;
+}
+
+.inputEnter-next-create-account button{
+  height: 39px;
+    width: 180px;
+    background: #01FFFF;
+    color: black;
+    border: none;
+    border-radius: 5px;
+    font-weight: 700;
+    font-size: 14px;
+    cursor: pointer;
+}
+
+.inputEnter-next .a-next{
+  height: 45px;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-weight: 700;
+    font-size: 14px;
+    cursor: pointer;
+    padding: 10px;
+    margin-right: 10px;
+    padding-right: 60px;
+    padding-left: 60px;
+    border: 1px solid white;
+}
+
+.inputEnter-next{
+  padding: 10px;
 }
 
 .margin-30{
@@ -41,4 +71,41 @@
   margin-top: -5px;
   color: #01FFFF;
   font-size: 14px;
+}
+
+.number-contador-1{
+  width: 50px;
+  display: inline-block;
+  position: relative;
+  right: 85px;
+}
+.number-contador-2{
+  width: 50px;
+  display: inline-block;
+  position: relative;
+  right: 25px;
+}
+
+.number-contador-3{
+  width: 50px;
+  display: inline-block;
+  position: relative;
+  left: 30px;
+}
+
+.number-contador-4{
+  width: 50px;
+  display: inline-block;
+  position: relative;
+  right: -85px;
+}
+
+.number-contador-1, .number-contador-2, .number-contador-3, .number-contador-4 span{
+  font-size: 44px;
+  font-weight: 600;
+}
+
+.btn-voltar{
+    color: white !important;
+    opacity: 0.2 !important;
 }

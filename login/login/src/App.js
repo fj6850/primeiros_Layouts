@@ -8,6 +8,7 @@ import Home from './pages/home'
 import RecoverPassword from './pages/RecoverPassword'
 import create_account from './pages/create_account'
 import account_date from './pages/account_date'
+import address from './pages/address'
 
 function App() {
   return (  
@@ -22,6 +23,7 @@ function App() {
         <Route path='/RecoverPassword' component={RecoverPassword} />
         <Route path='/create_account' component={create_account} />
         <Route path='/account_date' component={account_date} />
+        <Route path='/address' component={address} />
       </Switch>
     </main>
     </>
