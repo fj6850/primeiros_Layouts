@@ -1,0 +1,21 @@
+.number-contador-1-finalization-registration,
+.number-contador-2-finalization-registration,
+.number-contador-3-finalization-registration
+{
+    color: white;
+    opacity: 0.2;
+}
+
+.Information{
+    padding: 20px;
+}
+
+.Information label{
+    font-size: 14px;
+}
+
+.sp4ce-Future-finalization{
+    font-size: 12px;
+    margin-top: 100px;
+
+}

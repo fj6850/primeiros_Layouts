@@ -39,7 +39,7 @@ input{
   height: 50px;
   width: 350px;
   margin: 10px;
-  border: 1px solid #01FFFF;
+  border: 1px solid #00FFFF;
   border-radius: 5px;
   background: #2E3948;
   outline: 0;
@@ -77,12 +77,17 @@ input[type="email"] {
 }
 
 .forgotPassword a{
-  color: #01FFFF;
+  color: #00FFFF;
 }
 
 .registerNow a{
-  color: #01FFFF;
+  color: #00FFFF;
   text-shadow: -1px 0 black, 0 1px black,
       1px 0 black, 0 -1px black
+}
+
+.sp4ce-Future-login{
+  margin-top: 110px;
+  font-size: 11px;
 }
 

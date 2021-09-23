@@ -29,7 +29,7 @@
 
 
 .number-contador-1-create-account span{
-    color: #01FFFF; 
+    color: #00FFFF; 
 }
 
 .number-contador-2-create-account span{
@@ -45,4 +45,19 @@
 .number-contador-4-create-account span{
     color: white;
     opacity: 0.2;
+}
+
+.sp4ce-Future-create{
+    font-size: 12px;
+    margin-top: 40px;
+    margin: 5px;
+}
+
+.margin-30 a{
+    color: #00FFFF;
+}
+
+.sp4ce-Future-confirm{
+    margin-top: 170px;
+    font-size: 11px;
 }

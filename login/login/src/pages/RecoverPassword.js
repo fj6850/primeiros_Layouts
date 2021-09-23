@@ -76,6 +76,10 @@ class register extends Component {
                             </form>
                         </div>
                     </div>
+
+                    <div className="sp4ce-Future-Recover">
+                        <label>© 2021 - Sp4ce Future Gaming. All rights reserved</label>
+                    </div>
                 </div>
 
                 <Switch>

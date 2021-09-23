@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import { Switch, Route, Link } from 'react-router-dom'
 import img from './img/logo.png';
+
 import './home.css';
 import '../App.css';
 import login from './login'
@@ -47,6 +48,10 @@ class home extends Component {
                         <Link to='/create_account'>
                             <button className="btn-create">CRIAR CONTA</button>
                         </Link>
+                    </div>
+
+                    <div className="sp4ce-Future-home">
+                        <label>© 2021 - Sp4ce Future Gaming. All rights reserved</label>
                     </div>
                 </div>
 

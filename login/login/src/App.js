@@ -9,6 +9,12 @@ import RecoverPassword from './pages/RecoverPassword'
 import create_account from './pages/create_account'
 import account_date from './pages/account_date'
 import address from './pages/address'
+import finalization_registration from './pages/finalization_registration'
+import confirm_account from './pages/confirm_account'
+import welcome from './pages/welcome'
+import ArrayState from './pages/ArrayState'
+import perfil from './pages/perfil'
+
 
 function App() {
   return (  
@@ -24,6 +30,11 @@ function App() {
         <Route path='/create_account' component={create_account} />
         <Route path='/account_date' component={account_date} />
         <Route path='/address' component={address} />
+        <Route path='/finalization_registration' component={finalization_registration} />
+        <Route path='/confirm_account' component={confirm_account} />
+        <Route path='/welcome' component={welcome} />
+        <Route path='/ArrayState' component={ArrayState} />
+        <Route path='/perfil' component={perfil} />
       </Switch>
     </main>
     </>

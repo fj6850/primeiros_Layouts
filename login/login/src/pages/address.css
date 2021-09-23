@@ -1,15 +1,15 @@
 .number-contador-1-address{
     opacity: 0.2;
-    color: #01FFFF;
+    color: #00FFFF;
 }
 
 .number-contador-2-address span{
     opacity: 0.2;
-    color: #01FFFF;
+    color: #00FFFF;
 }
 
 .number-contador-3-address span{
-    color: #01FFFF;
+    color: #00FFFF;
 }
 
 .number-contador-4-address span{
@@ -54,7 +54,7 @@
     height: 50px;
     width: 137px;
     margin: 10px;
-    border: 1px solid #01FFFF;
+    border: 1px solid #00FFFF;
     border-radius: 5px;
     background: #2E3948;
     outline: 0;
@@ -65,7 +65,7 @@
     height: 50px;
     width: 205px;
     margin: 10px;
-    border: 1px solid #01FFFF;
+    border: 1px solid #00FFFF;
     border-radius: 5px;
     background: #2E3948;
     outline: 0;

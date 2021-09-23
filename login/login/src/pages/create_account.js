@@ -134,11 +134,14 @@ class cerate_account extends Component {
                                     </Link>
                                 </div>
 
-                                <div className="margin-15">
+                                <div className="margin-30">
                                     <a>Já é registrado? Entre.</a>
                                 </div>
                             </div>
                         </div>
+                    </div>
+                    <div className="sp4ce-Future-create">
+                        <label>© 2021 - Sp4ce Future Gaming. All rights reserved</label>
                     </div>
                 </div>
             </div>

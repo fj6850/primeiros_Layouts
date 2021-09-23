@@ -59,7 +59,7 @@ class account_date extends Component {
                                         <span>03</span>
                                     </div>
 
-                                    <div className="number-contador-4  number-contador-4 number-contador-4-accoun-date">
+                                    <div className="number-contador-4 number-contador-4-accoun-date">
                                         <span>04</span>
                                     </div>
                                 </div>
@@ -114,6 +114,10 @@ class account_date extends Component {
                             </div>
                         </div>
                     </div>
+                </div>
+
+                <div className="sp4ce-Future-create">
+                    <label>© 2021 - Sp4ce Future Gaming. All rights reserved</label>
                 </div>
             </div>
 

@@ -76,6 +76,10 @@ class login extends Component {
                             </div>
                         </form>
                     </div>
+
+                    <div className="sp4ce-Future-login">
+                        <label>© 2021 - Sp4ce Future Gaming. All rights reserved</label>
+                    </div>
                 </div>
                 <Switch>
                     <Route path='/home' component={home} />
